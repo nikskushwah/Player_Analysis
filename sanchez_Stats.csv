@@ -1,0 +1,399 @@
+,Team,Opponent,Date,Competition,Result,Appearance,Goals,Assists,Shots,Shots on Goal,Fouls Committed,Fouls Suffered,Yellow Cards,Red Cards
+0,Chile,A - Portugal,2011-03-26,Int,D 1-1,Started,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Chile,H - Mexico,2011-07-04,Copa Am,W 2-1,Started,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0
+2,Chile,A - Uruguay,2011-07-08,Copa Am,D 1-1,Started,1.0,0.0,2.0,1.0,4.0,6.0,1.0,0.0
+3,Chile,H - Peru,2011-07-12,Copa Am,W 1-0,Sub-On 57 min,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+4,Chile,H - Venezuela,2011-07-17,Copa Am,L 1-2,Started,0.0,0.0,3.0,3.0,4.0,4.0,0.0,0.0
+5,Chile,A - France,2011-08-10,Int,D 1-1,Sub-On 45 min,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0
+6,Barcelona,A - Real Madrid,2011-08-14,Sup Cup,D 2-2,Started,0.0,0.0,1.0,0.0,9.0,3.0,1.0,0.0
+8,Barcelona,H - FC Porto,2011-08-26,Super C,W 2-0,Sub-On 59 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Barcelona,H - Villarreal,2011-08-29,La Liga,W 5-0,Started,1.0,0.0,3.0,2.0,1.0,1.0,1.0,0.0
+10,Chile,A - Spain,2011-09-02,Int,L 3-2,Started,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+11,Chile,A - Mexico,2011-09-04,Int,L 1-0,Sub-On 39 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Barcelona,A - R Sociedad,2011-09-10,La Liga,D 2-2,Sub-Off 31 min,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+13,Barcelona,A - Plzen,2011-11-01,UCL,W 0-4,Sub-On 72 min,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+14,Barcelona,A - Athletic,2011-11-06,La Liga,D 2-2,Sub-On 60 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+15,Chile,H - Paraguay,2011-11-15,WCQ,W 2-0,Started,0.0,0.0,2.0,1.0,3.0,5.0,1.0,0.0
+16,Chile,H - Paraguay,2011-11-15,WCQ,W 2-0,Started,0.0,0.0,2.0,1.0,3.0,5.0,1.0,0.0
+17,Chile,H - Paraguay,2011-11-15,WCQ,W 2-0,Started,0.0,0.0,2.0,1.0,3.0,5.0,1.0,0.0
+18,Barcelona,H - R Zaragoza,2011-11-19,La Liga,W 4-0,Sub-Off 55 min,0.0,0.0,4.0,2.0,0.0,4.0,0.0,0.0
+19,Barcelona,A - Milan,2011-11-23,UCL,W 2-3,Sub-On 67 min,0.0,0.0,3.0,1.0,2.0,3.0,0.0,0.0
+20,Barcelona,A - Getafe,2011-11-26,La Liga,L 1-0,Sub-Off 71 min,0.0,0.0,4.0,1.0,0.0,4.0,0.0,0.0
+21,Barcelona,H - Rayo,2011-11-29,La Liga,W 4-0,Sub-Off 70 min,2.0,0.0,2.0,2.0,1.0,3.0,0.0,0.0
+22,Barcelona,H - Levante,2011-12-03,La Liga,W 5-0,Started,1.0,0.0,3.0,2.0,0.0,2.0,0.0,0.0
+23,Barcelona,A - Real Madrid,2011-12-10,La Liga,W 1-3,Sub-Off 83 min,1.0,0.0,4.0,2.0,3.0,5.0,1.0,0.0
+24,Barcelona,A - Al-Sadd,2011-12-15,CWC,W 0-4,Sub-On 37; Sub-Off 70,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Barcelona,H - Osasuna,2012-01-04,Esp Cup,W 4-0,Sub-On 73 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Barcelona,A - Espanyol,2012-01-08,La Liga,D 1-1,Sub-Off 71 min,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0
+27,Barcelona,A - Osasuna,2012-01-12,Esp Cup,W 1-2,Sub-Off 58 min,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Barcelona,H - Betis,2012-01-15,La Liga,W 4-2,Started,1.0,1.0,3.0,2.0,3.0,1.0,0.0,0.0
+29,Barcelona,A - Real Madrid,2012-01-18,Esp Cup,W 1-2,Sub-Off 82 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Barcelona,A - Málaga,2012-01-22,La Liga,W 1-4,Sub-Off 63 min,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+31,Barcelona,H - Real Madrid,2012-01-25,Esp Cup,W 2-2,Sub-Off 79 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Barcelona,A - Villarreal,2012-01-28,La Liga,D 0-0,Sub-On 59 min,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+33,Barcelona,A - Valencia,2012-02-01,Esp Cup,D 1-1,Sub-Off 62 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Barcelona,H - Valencia,2012-02-08,Esp Cup,W 2-0,Sub-Off 86 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Barcelona,A - Osasuna,2012-02-11,La Liga,L 3-2,Started,1.0,0.0,2.0,1.0,2.0,5.0,1.0,0.0
+37,Barcelona,A - Leverkusen,2012-02-14,UCL,W 1-3,Sub-Off 85 min,2.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0
+38,Barcelona,H - Valencia,2012-02-19,La Liga,W 5-1,Started,0.0,0.0,4.0,2.0,2.0,1.0,0.0,0.0
+39,Barcelona,A - Atletico,2012-02-26,La Liga,W 1-2,Sub-Off 84 min,0.0,0.0,1.0,0.0,2.0,2.0,1.0,0.0
+40,Chile,H - Ghana,2012-02-29,Int,D 1-1,Started,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Barcelona,H - Sporting,2012-03-03,La Liga,W 3-1,Sub-On 58 min,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0
+42,Barcelona,A - Sevilla,2012-03-17,La Liga,W 0-2,Sub-On 81 min,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+43,Barcelona,H - Granada,2012-03-20,La Liga,W 5-3,Sub-Off 71 min,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+44,Barcelona,A - Mallorca,2012-03-24,La Liga,W 0-2,Sub-Off 81 min,0.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0
+45,Barcelona,A - Milan,2012-03-28,UCL,D 0-0,Sub-Off 75 min,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+46,Barcelona,H - Athletic,2012-03-31,La Liga,W 2-0,Sub-Off 82 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Barcelona,A - R Zaragoza,2012-04-07,La Liga,W 1-4,Started,0.0,1.0,2.0,2.0,0.0,5.0,0.0,0.0
+49,Barcelona,H - Getafe,2012-04-10,La Liga,W 4-0,Started,2.0,0.0,3.0,2.0,1.0,1.0,0.0,0.0
+50,Barcelona,A - Levante,2012-04-14,La Liga,W 1-2,Sub-Off 75 min,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+51,Barcelona,A - Chelsea,2012-04-18,UCL,L 1-0,Sub-Off 65 min,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+52,Barcelona,H - Real Madrid,2012-04-21,La Liga,L 1-2,Sub-On 68 min,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0
+53,Barcelona,H - Chelsea,2012-04-24,UCL,L 2-2,Started,0.0,0.0,1.0,0.0,2.0,4.0,0.0,0.0
+54,Barcelona,A - Rayo,2012-04-29,La Liga,W 0-7,Sub-Off 79 min,1.0,0.0,2.0,1.0,0.0,3.0,0.0,0.0
+55,Barcelona,A - Athletic,2012-05-25,Esp Cup,W 0-3,Sub-Off 71 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Chile,A - Bolivia,2012-06-02,WCQ,W 0-2,Started,0.0,0.0,0.0,0.0,2.0,7.0,0.0,0.0
+57,Chile,A - Venezuela,2012-06-09,WCQ,W 0-2,Started,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0
+58,Chile,A - Venezuela,2012-06-09,WCQ,W 0-2,Started,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0
+59,Chile,A - Ecuador,2012-08-15,Int,L 3-0,Started,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+61,Barcelona,H - Real Madrid,2012-08-23,Sup Cup,W 3-2,Sub-Off 71 min,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+62,Barcelona,A - Osasuna,2012-08-26,La Liga,W 1-2,Started,0.0,1.0,2.0,2.0,3.0,4.0,0.0,0.0
+63,Barcelona,A - Real Madrid,2012-08-29,Sup Cup,L 2-1,Sub-Off 31 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Barcelona,H - Valencia,2012-09-02,La Liga,W 1-0,Sub-Off 86 min,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+65,Chile,H - Colombia,2012-09-11,WCQ,L 1-3,Sub-Off 81 min,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+66,Chile,H - Colombia,2012-09-11,WCQ,L 1-3,Sub-Off 81 min,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+67,Barcelona,H - Spart Moscow,2012-09-19,UCL,W 3-2,Sub-On 63 min,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+68,Barcelona,H - Granada,2012-09-22,La Liga,W 2-0,Started,0.0,0.0,3.0,2.0,1.0,4.0,0.0,0.0
+69,Barcelona,A - Sevilla,2012-09-29,La Liga,W 2-3,Sub-Off 69 min,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+70,Barcelona,A - Benfica,2012-10-02,UCL,W 0-2,Started,1.0,0.0,3.0,1.0,1.0,4.0,0.0,0.0
+71,Barcelona,H - Real Madrid,2012-10-07,La Liga,D 2-2,Sub-On 61 min,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+72,Chile,A - Ecuador,2012-10-12,WCQ,L 3-1,Started,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+73,Chile,A - Ecuador,2012-10-12,WCQ,L 3-1,Started,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+74,Chile,H - Argentina,2012-10-16,WCQ,L 1-2,Started,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+76,Barcelona,H - Celtic,2012-10-23,UCL,W 2-1,Sub-Off 79 min,0.0,0.0,2.0,1.0,3.0,2.0,0.0,0.0
+77,Barcelona,A - Rayo,2012-10-27,La Liga,W 0-5,Sub-On 62 min,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+78,Barcelona,A - Alavés,2012-10-30,Esp Cup,W 0-3,Started,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,Barcelona,H - Celta Vigo,2012-11-03,La Liga,W 3-1,Sub-On 77 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+80,Barcelona,A - Celtic,2012-11-07,UCL,L 2-1,Sub-Off 64 min,0.0,0.0,3.0,2.0,1.0,2.0,0.0,0.0
+81,Barcelona,A - Mallorca,2012-11-11,La Liga,W 2-4,Sub-On 65 min,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+82,Chile,H - Serbia,2012-11-14,Int,L 1-3,Sub-Off 20 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,Barcelona,A - Betis,2012-12-09,La Liga,W 1-2,Sub-On 9 min,0.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0
+84,Barcelona,A - Cordoba,2012-12-12,Esp Cup,W 0-2,Sub-On 66 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,Barcelona,H - Atletico,2012-12-16,La Liga,W 4-1,Sub-Off 74 min,0.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0
+86,Barcelona,A - Valladolid,2012-12-22,La Liga,W 1-3,Sub-Off 76 min,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+87,Barcelona,H - Espanyol,2013-01-06,La Liga,W 4-0,Sub-On 74 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,Barcelona,H - Cordoba,2013-01-10,Esp Cup,W 5-0,Started,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Barcelona,A - Málaga,2013-01-13,La Liga,W 1-3,Sub-On 77 min,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+90,Barcelona,H - Málaga,2013-01-16,Esp Cup,D 2-2,Sub-Off 74 min,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+92,Barcelona,A - Málaga,2013-01-24,Esp Cup,W 2-4,Sub-On 87 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,Barcelona,H - Osasuna,2013-01-27,La Liga,W 5-1,Sub-On 60 min,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+94,Barcelona,A - Real Madrid,2013-01-30,Esp Cup,D 1-1,Sub-On 76 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,Barcelona,H - Getafe,2013-02-10,La Liga,W 6-1,Sub-Off 72 min,1.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0
+97,Barcelona,A - Granada,2013-02-16,La Liga,W 1-2,Sub-Off 60 min,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+98,Barcelona,A - Milan,2013-02-20,UCL,L 2-0,Sub-On 61 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+99,Barcelona,H - Sevilla,2013-02-23,La Liga,W 2-1,Sub-Off 45 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+100,Barcelona,A - Real Madrid,2013-03-02,La Liga,L 2-1,Sub-On 66 min,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+101,Barcelona,H - Deportivo,2013-03-09,La Liga,W 2-0,Started,1.0,1.0,1.0,1.0,2.0,2.0,0.0,0.0
+102,Barcelona,H - Milan,2013-03-12,UCL,W 4-0,Sub-On 74 min,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,Barcelona,H - Rayo,2013-03-17,La Liga,W 3-1,Started,0.0,0.0,2.0,1.0,3.0,7.0,0.0,0.0
+104,Chile,A - Peru,2013-03-22,WCQ,L 1-0,Started,0.0,0.0,2.0,1.0,2.0,6.0,1.0,0.0
+105,Chile,A - Peru,2013-03-22,WCQ,L 1-0,Started,0.0,0.0,2.0,1.0,2.0,6.0,1.0,0.0
+106,Barcelona,A - Celta Vigo,2013-03-30,La Liga,D 2-2,Sub-Off 67 min,0.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0
+107,Barcelona,A - PSG,2013-04-02,UCL,D 2-2,Started,0.0,0.0,4.0,1.0,2.0,3.0,0.0,0.0
+108,Barcelona,H - Mallorca,2013-04-06,La Liga,W 5-0,Started,2.0,2.0,3.0,2.0,2.0,1.0,1.0,0.0
+110,Barcelona,A - R Zaragoza,2013-04-14,La Liga,W 0-3,Started,0.0,1.0,3.0,2.0,2.0,4.0,1.0,0.0
+111,Barcelona,H - Levante,2013-04-20,La Liga,W 1-0,Sub-On 76 min,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,Barcelona,A - Bayern,2013-04-23,UCL,L 4-0,Started,0.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0
+113,Barcelona,A - Athletic,2013-04-27,La Liga,D 2-2,Sub-Off 77 min,1.0,0.0,3.0,2.0,1.0,2.0,0.0,0.0
+114,Barcelona,H - Bayern,2013-05-01,UCL,L 0-3,Sub-On 54 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,Barcelona,H - Betis,2013-05-05,La Liga,W 4-2,Sub-Off 78 min,1.0,1.0,2.0,2.0,1.0,3.0,0.0,0.0
+116,Barcelona,A - Atletico,2013-05-12,La Liga,W 1-2,Started,1.0,0.0,2.0,1.0,2.0,4.0,1.0,0.0
+118,Barcelona,A - Espanyol,2013-05-26,La Liga,W 0-2,Sub-Off 83 min,1.0,0.0,1.0,1.0,2.0,3.0,0.0,0.0
+119,Barcelona,H - Málaga,2013-06-01,La Liga,W 4-1,Sub-On 77 min,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0
+120,Chile,A - Paraguay,2013-06-07,WCQ,W 1-2,Sub-Off 90 min,0.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0
+121,Chile,A - Paraguay,2013-06-07,WCQ,W 1-2,Sub-Off 90 min,0.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0
+122,Chile,H - Bolivia,2013-06-11,WCQ,W 3-1,Started,1.0,0.0,2.0,1.0,1.0,4.0,0.0,0.0
+123,Barcelona,H - Levante,2013-08-18,La Liga,W 7-0,Sub-Off 63 min,1.0,0.0,2.0,1.0,2.0,4.0,0.0,0.0
+124,Barcelona,A - Atletico,2013-08-21,Sup Cup,D 1-1,Started,0.0,0.0,2.0,2.0,2.0,5.0,0.0,0.0
+125,Barcelona,A - Málaga,2013-08-25,La Liga,W 0-1,Started,0.0,1.0,1.0,1.0,2.0,5.0,1.0,0.0
+126,Barcelona,H - Atletico,2013-08-28,Sup Cup,D 0-0,Sub-Off 64 min,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+127,Chile,H - Venezuela,2013-09-06,WCQ,W 3-0,Started,0.0,1.0,1.0,1.0,6.0,1.0,0.0,0.0
+128,Chile,A - Spain,2013-09-10,Int,D 2-2,Sub-Off 90 min,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0
+129,Barcelona,H - Sevilla,2013-09-14,La Liga,W 3-2,Sub-On 62 min,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+130,Barcelona,H - Ajax,2013-09-18,UCL,W 4-0,Started,0.0,0.0,1.0,0.0,3.0,2.0,0.0,0.0
+131,Barcelona,A - Rayo,2013-09-21,La Liga,W 0-4,Sub-On 79 min,,,,,,,,
+132,Barcelona,H - R Sociedad,2013-09-24,La Liga,W 4-1,Started,0.0,0.0,5.0,0.0,2.0,1.0,0.0,0.0
+133,Barcelona,A - Almeria,2013-09-28,La Liga,W 0-2,Sub-Off 80 min,0.0,0.0,1.0,0.0,2.0,5.0,0.0,0.0
+134,Barcelona,A - Celtic,2013-10-01,UCL,W 0-1,Sub-On 73 min,0.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0
+135,Barcelona,H - Valladolid,2013-10-05,La Liga,W 4-1,Started,2.0,1.0,4.0,3.0,0.0,4.0,0.0,0.0
+136,Chile,A - Colombia,2013-10-11,WCQ,D 3-3,Started,2.0,0.0,4.0,3.0,3.0,9.0,0.0,0.0
+137,Chile,H - Ecuador,2013-10-15,WCQ,W 2-1,Started,1.0,1.0,4.0,2.0,0.0,3.0,1.0,0.0
+138,Barcelona,A - Milan,2013-10-22,UCL,D 1-1,Sub-Off 73 min,0.0,0.0,1.0,1.0,2.0,3.0,1.0,0.0
+139,Barcelona,H - Real Madrid,2013-10-26,La Liga,W 2-1,Sub-On 69 min,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+140,Barcelona,A - Celta Vigo,2013-10-29,La Liga,W 0-3,Sub-Off 82 min,1.0,0.0,1.0,1.0,1.0,3.0,0.0,0.0
+141,Barcelona,H - Espanyol,2013-11-01,La Liga,W 1-0,Sub-Off 82 min,1.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0
+142,Barcelona,H - Milan,2013-11-06,UCL,W 3-1,Started,0.0,0.0,3.0,1.0,1.0,2.0,1.0,0.0
+144,Chile,A - England,2013-11-15,Int,W 0-2,Started,2.0,0.0,3.0,3.0,2.0,2.0,0.0,0.0
+145,Chile,A - Brazil,2013-11-19,Int,L 2-1,Started,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+146,Barcelona,H - Granada,2013-11-23,La Liga,W 4-0,Sub-Off 73 min,1.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0
+147,Barcelona,A - Athletic,2013-12-01,La Liga,L 1-0,Started,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+148,Barcelona,A - FC Cartagena,2013-12-06,Esp Cup,W 1-4,Sub-Off 78 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,Barcelona,H - Celtic,2013-12-11,UCL,W 6-1,Sub-Off 62 min,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+150,Barcelona,H - Villarreal,2013-12-14,La Liga,W 2-1,Sub-Off 83 min,0.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0
+151,Barcelona,H - FC Cartagena,2013-12-17,Esp Cup,W 3-0,Sub-On 76 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,Barcelona,A - Getafe,2013-12-22,La Liga,W 2-5,Started,0.0,0.0,3.0,1.0,1.0,3.0,0.0,0.0
+153,Barcelona,H - Elche,2014-01-05,La Liga,W 4-0,Sub-Off 73 min,3.0,0.0,4.0,3.0,2.0,2.0,0.0,0.0
+154,Barcelona,H - Getafe,2014-01-08,Esp Cup,W 4-0,Sub-Off 75 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,Barcelona,A - Atletico,2014-01-11,La Liga,D 0-0,Sub-Off 66 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+156,Barcelona,A - Getafe,2014-01-16,Esp Cup,W 0-2,Sub-On 28 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,Barcelona,A - Levante,2014-01-19,La Liga,D 1-1,Started,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+158,Barcelona,A - Levante,2014-01-22,Esp Cup,W 1-4,Sub-On 77 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,Barcelona,H - Málaga,2014-01-26,La Liga,W 3-0,Sub-Off 86 min,1.0,1.0,3.0,2.0,1.0,3.0,0.0,0.0
+160,Barcelona,H - Levante,2014-01-29,Esp Cup,W 5-1,Sub-Off 78 min,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,Barcelona,H - Valencia,2014-02-01,La Liga,L 2-3,Started,1.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0
+162,Barcelona,H - R Sociedad,2014-02-05,Esp Cup,W 2-0,Sub-Off 74 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,Barcelona,A - Sevilla,2014-02-09,La Liga,W 1-4,Sub-Off 88 min,1.0,1.0,3.0,1.0,2.0,3.0,0.0,0.0
+164,Barcelona,A - R Sociedad,2014-02-12,Esp Cup,W 1-1,Sub-On 77 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,Barcelona,H - Rayo,2014-02-15,La Liga,W 6-0,Started,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0
+166,Barcelona,A - Man City,2014-02-18,UCL,W 0-2,Sub-Off 73 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Barcelona,A - R Sociedad,2014-02-22,La Liga,L 3-1,Sub-On 72 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,Barcelona,H - Almeria,2014-03-02,La Liga,W 4-1,Sub-Off 71 min,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+169,Chile,A - Germany,2014-03-05,Int,L 1-0,Started,0.0,0.0,1.0,1.0,1.0,3.0,0.0,0.0
+170,Barcelona,A - Valladolid,2014-03-08,La Liga,L 1-0,Sub-On 60 min,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+171,Barcelona,H - Man City,2014-03-12,UCL,W 2-1,Sub-On 79 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,Barcelona,H - Osasuna,2014-03-16,La Liga,W 7-0,Sub-Off 76 min,1.0,1.0,4.0,1.0,1.0,3.0,0.0,0.0
+173,Barcelona,A - Real Madrid,2014-03-23,La Liga,W 3-4,Sub-On 77 min,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+174,Barcelona,H - Celta Vigo,2014-03-26,La Liga,W 3-0,Started,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0
+175,Barcelona,A - Espanyol,2014-03-29,La Liga,W 0-1,Sub-On 80 min,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0
+176,Barcelona,H - Atletico,2014-04-01,UCL,D 1-1,Sub-On 67 min,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+177,Barcelona,H - Betis,2014-04-05,La Liga,W 3-1,Started,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0
+178,Barcelona,A - Atletico,2014-04-09,UCL,L 1-0,Sub-On 60 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,Barcelona,A - Granada,2014-04-12,La Liga,L 1-0,Sub-On 73 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,Barcelona,A - Real Madrid,2014-04-16,Esp Cup,L 2-1,Sub-On 87 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,Barcelona,H - Athletic,2014-04-20,La Liga,W 2-1,Sub-Off 86 min,0.0,1.0,3.0,1.0,1.0,5.0,0.0,0.0
+182,Barcelona,A - Villarreal,2014-04-27,La Liga,W 2-3,Sub-Off 61 min,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+183,Barcelona,H - Getafe,2014-05-03,La Liga,D 2-2,Started,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0
+184,Barcelona,A - Elche,2014-05-11,La Liga,D 0-0,Started,0.0,0.0,2.0,2.0,3.0,2.0,1.0,0.0
+185,Barcelona,H - Atletico,2014-05-17,La Liga,D 1-1,Started,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0
+186,Chile,H - Egypt,2014-05-30,Int,W 3-2,Started,0.0,3.0,7.0,4.0,2.0,3.0,1.0,0.0
+187,Chile,H - N Ireland,2014-06-04,Int,W 2-0,Sub-On 58 min,0.0,2.0,3.0,1.0,0.0,1.0,0.0,0.0
+188,Chile,H - Australia,2014-06-13,WC,W 3-1,Started,1.0,1.0,2.0,1.0,0.0,6.0,0.0,0.0
+189,Chile,A - Spain,2014-06-18,WC,W 0-2,Started,0.0,0.0,1.0,1.0,3.0,2.0,0.0,0.0
+190,Chile,A - Netherlands,2014-06-23,WC,L 2-0,Started,0.0,0.0,2.0,1.0,2.0,9.0,0.0,0.0
+191,Chile,A - Brazil,2014-06-28,WC,L (3) 1-(2) 1,Started,1.0,0.0,2.0,1.0,2.0,7.0,0.0,0.0
+192,Arsenal,H - Benfica,2014-08-02,Int,W 5-1,Sub-On 74 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,Arsenal,H - Monaco,2014-08-03,Int,L 0-1,Sub-Off 73 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,Arsenal,H - Man City,2014-08-10,Comm,W 3-0,Sub-Off 45 min,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+195,Arsenal,H - C Palace,2014-08-16,Prem,W 2-1,Started,0.0,1.0,3.0,1.0,5.0,3.0,0.0,0.0
+196,Arsenal,A - Besiktas,2014-08-19,UCL,D 0-0,Sub-Off 71 min,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+197,Arsenal,A - Everton,2014-08-23,Prem,D 2-2,Sub-Off 45 min,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+198,Arsenal,H - Besiktas,2014-08-27,UCL,W 1-0,Started,1.0,0.0,5.0,4.0,4.0,4.0,0.0,0.0
+199,Arsenal,A - Leicester,2014-08-31,Prem,D 1-1,Started,1.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0
+200,Chile,H - Mexico,2014-09-06,Int,D 0-0,Sub-Off 84 min,0.0,0.0,3.0,1.0,1.0,4.0,0.0,0.0
+201,Chile,H - Haiti,2014-09-09,Int,W 1-0,Sub-Off 85 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,Chile,H - Haiti,2014-09-09,Int,W 1-0,Started,0.0,0.0,5.0,2.0,3.0,2.0,0.0,0.0
+203,Arsenal,H - Man City,2014-09-13,Prem,D 2-2,Started,1.0,0.0,3.0,2.0,1.0,4.0,1.0,0.0
+204,Arsenal,A - Dortmund,2014-09-16,UCL,L 2-0,Started,0.0,0.0,2.0,1.0,2.0,1.0,0.0,0.0
+206,Arsenal,H - Southampton,2014-09-23,CC,L 1-2,Started,1.0,0.0,2.0,2.0,2.0,4.0,0.0,0.0
+207,Arsenal,H - Tottenham,2014-09-27,Prem,D 1-1,Sub-On 62 min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,Arsenal,H - Galatasaray,2014-10-01,UCL,W 4-1,Sub-Off 61 min,1.0,1.0,2.0,1.0,1.0,3.0,0.0,0.0
+209,Arsenal,A - Chelsea,2014-10-05,Prem,L 2-0,Sub-Off 78 min,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+210,Chile,H - Peru,2014-10-10,Int,W 3-0,Started,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Chile,H - Peru,2014-10-10,Int,W 3-0,Started,0.0,1.0,4.0,1.0,0.0,2.0,0.0,0.0
+212,Chile,H - Bolivia,2014-10-14,Int,D 2-2,Started,0.0,0.0,5.0,2.0,2.0,2.0,0.0,0.0
+213,Arsenal,H - Hull,2014-10-18,Prem,D 2-2,Started,1.0,1.0,5.0,3.0,1.0,2.0,0.0,0.0
+214,Arsenal,A - Anderlecht,2014-10-22,UCL,W 1-2,Started,0.0,0.0,4.0,1.0,0.0,2.0,0.0,0.0
+215,Arsenal,A - Sunderland,2014-10-25,Prem,W 0-2,Started,2.0,0.0,5.0,3.0,0.0,1.0,0.0,0.0
+216,Arsenal,H - Burnley,2014-11-01,Prem,W 3-0,Started,2.0,0.0,7.0,5.0,1.0,0.0,0.0,0.0
+217,Arsenal,H - Anderlecht,2014-11-04,UCL,D 3-3,Started,1.0,0.0,4.0,1.0,1.0,4.0,0.0,0.0
+218,Arsenal,A - Swansea,2014-11-09,Prem,L 2-1,Started,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+219,Chile,H - Venezuela,2014-11-14,Int,W 5-0,Sub-Off 84 min,1.0,0.0,5.0,3.0,1.0,4.0,0.0,0.0
+220,Chile,H - Uruguay,2014-11-18,Int,L 1-2,Started,1.0,0.0,4.0,3.0,2.0,7.0,0.0,0.0
+221,Arsenal,H - Man Utd,2014-11-22,Prem,L 1-2,Started,0.0,0.0,4.0,2.0,3.0,2.0,0.0,0.0
+222,Arsenal,H - Dortmund,2014-11-26,UCL,W 2-0,Started,1.0,0.0,3.0,2.0,2.0,3.0,0.0,0.0
+223,Arsenal,A - West Brom,2014-11-29,Prem,W 0-1,Started,0.0,0.0,4.0,1.0,2.0,0.0,0.0,0.0
+224,Arsenal,H - Southampton,2014-12-03,Prem,W 1-0,Started,1.0,0.0,2.0,1.0,2.0,5.0,0.0,0.0
+225,Arsenal,A - Stoke,2014-12-06,Prem,L 3-2,Started,0.0,1.0,2.0,0.0,2.0,4.0,0.0,0.0
+226,Arsenal,H - Newcastle,2014-12-13,Prem,W 4-1,Started,0.0,2.0,2.0,0.0,2.0,6.0,0.0,0.0
+227,Arsenal,A - Liverpool,2014-12-21,Prem,D 2-2,Sub-Off 90 min,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+228,Arsenal,H - QPR,2014-12-26,Prem,W 2-1,Started,1.0,1.0,5.0,2.0,0.0,4.0,0.0,0.0
+229,Arsenal,A - West Ham,2014-12-28,Prem,W 1-2,Started,0.0,0.0,7.0,1.0,4.0,5.0,1.0,0.0
+230,Arsenal,A - Southampton,2015-01-01,Prem,L 2-0,Started,0.0,0.0,5.0,3.0,0.0,4.0,0.0,0.0
+231,Arsenal,H - Hull,2015-01-04,FAC,W 2-0,Sub-Off 83 min,1.0,1.0,6.0,3.0,2.0,1.0,1.0,0.0
+232,Arsenal,H - Stoke,2015-01-11,Prem,W 3-0,Started,2.0,1.0,4.0,3.0,0.0,1.0,0.0,0.0
+233,Arsenal,A - Man City,2015-01-18,Prem,W 0-2,Sub-Off 83 min,0.0,0.0,3.0,1.0,2.0,2.0,0.0,0.0
+234,Arsenal,A - Brighton,2015-01-25,FAC,W 2-3,Sub-On 69 min,0.0,0.0,3.0,1.0,0.0,2.0,0.0,0.0
+235,Arsenal,H - Leicester,2015-02-10,Prem,W 2-1,Sub-Off 67 min,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0
+236,Arsenal,H - Boro,2015-02-15,FAC,W 2-0,Sub-Off 71 min,0.0,1.0,5.0,1.0,0.0,1.0,0.0,0.0
+237,Arsenal,A - C Palace,2015-02-21,Prem,W 1-2,Started,0.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0
+238,Arsenal,H - Monaco,2015-02-25,UCL,L 1-3,Started,0.0,0.0,7.0,3.0,0.0,2.0,0.0,0.0
+239,Arsenal,H - Everton,2015-03-01,Prem,W 2-0,Started,0.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0
+240,Arsenal,A - QPR,2015-03-04,Prem,W 1-2,Started,1.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0
+241,Arsenal,A - Man Utd,2015-03-09,FAC,W 1-2,Started,0.0,0.0,5.0,3.0,0.0,3.0,0.0,0.0
+242,Arsenal,H - West Ham,2015-03-14,Prem,W 3-0,Started,0.0,0.0,4.0,2.0,1.0,2.0,1.0,0.0
+243,Arsenal,A - Monaco,2015-03-17,UCL,D 0-2,Started,0.0,0.0,1.0,0.0,2.0,3.0,1.0,0.0
+244,Arsenal,A - Newcastle,2015-03-21,Prem,W 1-2,Sub-Off 70 min,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0
+245,Chile,A - Iran,2015-03-26,Int,L 2-0,Sub-On 45 min,0.0,0.0,3.0,0.0,1.0,1.0,0.0,0.0
+246,Chile,A - Brazil,2015-03-29,Int,L 1-0,Started,0.0,0.0,4.0,1.0,1.0,9.0,0.0,0.0
+247,Arsenal,H - Liverpool,2015-04-04,Prem,W 4-1,Started,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0
+248,Arsenal,A - Burnley,2015-04-11,Prem,W 0-1,Started,0.0,0.0,6.0,3.0,3.0,4.0,0.0,0.0
+249,Arsenal,A - Reading,2015-04-18,FAC,W 1-2,Started,2.0,0.0,4.0,3.0,3.0,4.0,0.0,0.0
+250,Arsenal,H - Chelsea,2015-04-26,Prem,D 0-0,Started,0.0,0.0,2.0,0.0,2.0,5.0,0.0,0.0
+251,Arsenal,A - Hull,2015-05-04,Prem,W 1-3,Started,2.0,0.0,8.0,4.0,1.0,2.0,0.0,0.0
+252,Arsenal,H - Swansea,2015-05-11,Prem,L 0-1,Started,0.0,0.0,4.0,2.0,0.0,3.0,0.0,0.0
+253,Arsenal,A - Man Utd,2015-05-17,Prem,D 1-1,Sub-Off 89 min,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0
+254,Arsenal,H - Sunderland,2015-05-20,Prem,D 0-0,Started,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0
+255,Arsenal,H - West Brom,2015-05-24,Prem,W 4-1,Started,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0
+256,Arsenal,H - Aston Villa,2015-05-30,FAC,W 4-0,Sub-Off 89 min,1.0,1.0,2.0,1.0,2.0,5.0,0.0,0.0
+257,Chile,H - El Salvador,2015-06-05,Int,W 1-0,Started,0.0,0.0,6.0,4.0,2.0,1.0,0.0,0.0
+258,Chile,H - Ecuador,2015-06-11,Copa Am,W 2-0,Started,0.0,1.0,4.0,1.0,4.0,4.0,0.0,0.0
+259,Chile,H - Mexico,2015-06-15,Copa Am,D 3-3,Started,0.0,0.0,4.0,1.0,2.0,3.0,0.0,0.0
+260,Chile,H - Bolivia,2015-06-19,Copa Am,W 5-0,Started,1.0,0.0,5.0,1.0,1.0,2.0,0.0,0.0
+261,Chile,H - Uruguay,2015-06-24,Copa Am,W 1-0,Started,0.0,0.0,5.0,0.0,0.0,4.0,0.0,0.0
+262,Chile,H - Peru,2015-06-29,Copa Am,W 2-1,Started,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+263,Chile,H - Argentina,2015-07-04,Copa Am,W (4) 0-(1) 0,Started,0.0,0.0,3.0,1.0,3.0,1.0,0.0,0.0
+264,Arsenal,H - West Ham,2015-08-09,Prem,L 0-2,Sub-On 66 min,0.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0
+265,Arsenal,A - C Palace,2015-08-16,Prem,W 1-2,Sub-Off 74 min,0.0,0.0,7.0,2.0,1.0,1.0,0.0,0.0
+266,Arsenal,H - Liverpool,2015-08-24,Prem,D 0-0,Started,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0
+267,Arsenal,A - Newcastle,2015-08-29,Prem,W 0-1,Started,0.0,0.0,7.0,2.0,2.0,5.0,0.0,0.0
+268,Chile,H - Paraguay,2015-09-05,Int,W 3-2,Started,1.0,0.0,4.0,2.0,1.0,1.0,0.0,0.0
+269,Arsenal,H - Stoke,2015-09-12,Prem,W 2-0,Started,0.0,0.0,8.0,2.0,0.0,4.0,0.0,0.0
+270,Arsenal,A - D Zagreb,2015-09-16,UCL,L 2-1,Started,0.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0
+271,Arsenal,A - Chelsea,2015-09-19,Prem,L 2-0,Sub-Off 74 min,0.0,0.0,3.0,0.0,2.0,4.0,0.0,0.0
+272,Arsenal,A - Tottenham,2015-09-23,CC,W 1-2,Substitute,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+273,Arsenal,A - Leicester,2015-09-26,Prem,W 2-5,Started,3.0,0.0,7.0,3.0,3.0,1.0,0.0,0.0
+274,Arsenal,H - Olympiakos,2015-09-29,UCL,L 2-3,Started,1.0,1.0,4.0,2.0,1.0,3.0,1.0,0.0
+275,Arsenal,H - Man Utd,2015-10-04,Prem,W 3-0,Sub-Off 80 min,2.0,0.0,3.0,2.0,1.0,4.0,0.0,0.0
+276,Chile,H - Brazil,2015-10-08,WCQ,W 2-0,Started,1.0,0.0,3.0,2.0,4.0,0.0,0.0,0.0
+277,Chile,A - Peru,2015-10-13,WCQ,W 3-4,Started,2.0,1.0,2.0,2.0,3.0,2.0,0.0,0.0
+278,Arsenal,A - Watford,2015-10-17,Prem,W 0-3,Sub-Off 79 min,1.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0
+279,Arsenal,H - Bayern,2015-10-20,UCL,W 2-0,Sub-Off 81 min,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+280,Arsenal,H - Everton,2015-10-24,Prem,W 2-1,Sub-Off 88 min,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0
+281,Arsenal,A - Swansea,2015-10-31,Prem,W 0-3,Started,0.0,0.0,4.0,0.0,1.0,4.0,0.0,0.0
+282,Arsenal,A - Bayern,2015-11-04,UCL,L 5-1,Started,0.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0
+283,Arsenal,H - Tottenham,2015-11-08,Prem,D 1-1,Started,0.0,0.0,1.0,1.0,3.0,2.0,0.0,0.0
+284,Chile,H - Colombia,2015-11-12,WCQ,D 1-1,Started,0.0,0.0,5.0,2.0,1.0,2.0,0.0,0.0
+285,Chile,A - Uruguay,2015-11-17,WCQ,L 3-0,Started,0.0,0.0,4.0,1.0,2.0,1.0,1.0,0.0
+286,Arsenal,A - West Brom,2015-11-21,Prem,L 2-1,Started,0.0,0.0,2.0,1.0,1.0,5.0,0.0,0.0
+287,Arsenal,H - D Zagreb,2015-11-24,UCL,W 3-0,Started,2.0,1.0,4.0,2.0,0.0,2.0,0.0,0.0
+288,Arsenal,A - Norwich,2015-11-29,Prem,D 1-1,Started,0.0,1.0,2.0,1.0,1.0,2.0,0.0,0.0
+289,Arsenal,H - Chelsea,2016-01-24,Prem,L 0-1,Sub-On 56 min,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+290,Arsenal,H - Burnley,2016-01-30,FAC,W 2-1,Started,1.0,1.0,5.0,2.0,1.0,2.0,0.0,0.0
+291,Arsenal,H - Southampton,2016-02-02,Prem,D 0-0,Started,0.0,0.0,5.0,3.0,1.0,6.0,0.0,0.0
+292,Arsenal,A - Bournemouth,2016-02-07,Prem,W 0-2,Started,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0
+293,Arsenal,H - Leicester,2016-02-14,Prem,W 2-1,Started,0.0,0.0,6.0,0.0,1.0,4.0,0.0,0.0
+294,Arsenal,H - Hull,2016-02-20,FAC,D 0-0,Substitute,0.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0
+295,Arsenal,H - Barcelona,2016-02-23,UCL,L 0-2,Started,0.0,0.0,2.0,0.0,1.0,6.0,0.0,0.0
+296,Arsenal,A - Man Utd,2016-02-28,Prem,L 3-2,Started,0.0,0.0,3.0,0.0,0.0,4.0,0.0,0.0
+297,Arsenal,H - Swansea,2016-03-02,Prem,L 1-2,Started,0.0,1.0,4.0,0.0,1.0,1.0,0.0,0.0
+298,Arsenal,A - Tottenham,2016-03-05,Prem,D 2-2,Started,1.0,0.0,3.0,2.0,1.0,1.0,1.0,0.0
+300,Arsenal,H - Watford,2016-03-13,FAC,L 1-2,Started,0.0,0.0,2.0,0.0,1.0,2.0,0.0,0.0
+301,Arsenal,A - Barcelona,2016-03-16,UCL,L 3-1,Started,0.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0
+302,Arsenal,A - Everton,2016-03-19,Prem,W 0-2,Started,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+303,Chile,H - Argentina,2016-03-24,WCQ,L 1-2,Started,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0
+304,Chile,A - Venezuela,2016-03-29,WCQ,W 1-4,Started,0.0,2.0,3.0,0.0,0.0,4.0,0.0,0.0
+305,Arsenal,H - Watford,2016-04-02,Prem,W 4-0,Sub-Off 78 min,1.0,1.0,4.0,4.0,0.0,0.0,0.0,0.0
+306,Arsenal,A - West Ham,2016-04-09,Prem,D 3-3,Started,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0
+307,Arsenal,H - C Palace,2016-04-17,Prem,D 1-1,Started,1.0,0.0,5.0,1.0,0.0,2.0,0.0,0.0
+308,Arsenal,H - West Brom,2016-04-21,Prem,W 2-0,Sub-Off 85 min,2.0,0.0,2.0,2.0,3.0,1.0,0.0,0.0
+309,Arsenal,A - Sunderland,2016-04-24,Prem,D 0-0,Started,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0
+310,Arsenal,H - Norwich,2016-04-30,Prem,W 1-0,Sub-Off 83 min,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0
+311,Arsenal,A - Man City,2016-05-08,Prem,D 2-2,Started,1.0,0.0,1.0,1.0,1.0,5.0,0.0,0.0
+312,Arsenal,H - Aston Villa,2016-05-15,Prem,W 4-0,Started,0.0,0.0,5.0,1.0,2.0,1.0,0.0,0.0
+313,Chile,H - Jamaica,2016-05-27,Int,L 1-2,Started,0.0,0.0,5.0,2.0,1.0,3.0,0.0,0.0
+314,Chile,A - Mexico,2016-06-01,Int,L 1-0,Started,0.0,0.0,5.0,1.0,3.0,1.0,1.0,0.0
+315,Chile,A - Argentina,2016-06-06,Copa Am,L 2-1,Started,0.0,0.0,3.0,3.0,2.0,2.0,0.0,0.0
+316,Chile,H - Bolivia,2016-06-10,Copa Am,W 2-1,Started,0.0,0.0,4.0,3.0,0.0,5.0,0.0,0.0
+317,Chile,H - Panama,2016-06-14,Copa Am,W 4-2,Started,2.0,0.0,5.0,3.0,2.0,3.0,0.0,0.0
+318,Chile,A - Mexico,2016-06-18,Copa Am,W 0-7,Started,1.0,2.0,3.0,2.0,1.0,3.0,0.0,0.0
+319,Chile,A - Colombia,2016-06-22,Copa Am,W 0-2,Started,0.0,0.0,3.0,1.0,6.0,3.0,1.0,0.0
+320,Chile,A - Argentina,2016-06-26,Copa Am,W (2) 0-(4) 0,Started,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+321,Arsenal,H - Liverpool,2016-08-14,Prem,L 3-4,Started,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+322,Arsenal,A - Leicester,2016-08-20,Prem,D 0-0,Started,0.0,0.0,2.0,0.0,1.0,3.0,0.0,0.0
+323,Arsenal,A - Watford,2016-08-27,Prem,W 1-3,Started,1.0,1.0,3.0,3.0,5.0,3.0,0.0,0.0
+324,Chile,A - Paraguay,2016-09-01,WCQ,L 2-1,Started,0.0,0.0,1.0,0.0,3.0,2.0,0.0,0.0
+325,Chile,H - Bolivia,2016-09-06,WCQ,W 3-0,Started,0.0,0.0,3.0,1.0,1.0,5.0,0.0,0.0
+326,Arsenal,H - Southampton,2016-09-10,Prem,W 2-1,Sub-On 61 min,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0
+327,Arsenal,A - PSG,2016-09-13,UCL,D 1-1,Started,1.0,0.0,2.0,1.0,0.0,3.0,0.0,0.0
+328,Arsenal,A - Hull,2016-09-17,Prem,W 1-4,Started,2.0,0.0,5.0,4.0,3.0,2.0,0.0,0.0
+329,Arsenal,H - Chelsea,2016-09-24,Prem,W 3-0,Sub-Off 78 min,1.0,1.0,4.0,1.0,0.0,3.0,0.0,0.0
+330,Arsenal,H - FC Basel,2016-09-28,UCL,W 2-0,Started,0.0,2.0,4.0,3.0,1.0,3.0,0.0,0.0
+331,Arsenal,A - Burnley,2016-10-02,Prem,W 0-1,Started,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0
+332,Chile,A - Ecuador,2016-10-06,WCQ,L 3-0,Started,0.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0
+333,Chile,H - Peru,2016-10-11,WCQ,W 2-1,Started,0.0,0.0,2.0,1.0,0.0,5.0,0.0,0.0
+334,Arsenal,H - Swansea,2016-10-15,Prem,W 3-2,Sub-Off 81 min,0.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0
+335,Arsenal,H - Ludogorets,2016-10-19,UCL,W 6-0,Sub-Off 72 min,1.0,0.0,3.0,2.0,2.0,2.0,0.0,0.0
+336,Arsenal,H - Boro,2016-10-22,Prem,D 0-0,Started,0.0,0.0,4.0,3.0,1.0,2.0,0.0,0.0
+337,Arsenal,A - Sunderland,2016-10-29,Prem,W 1-4,Started,2.0,0.0,3.0,2.0,4.0,2.0,1.0,0.0
+338,Arsenal,A - Ludogorets,2016-11-01,UCL,W 2-3,Sub-Off 89 min,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0
+339,Arsenal,H - Tottenham,2016-11-06,Prem,D 1-1,Started,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0
+340,Chile,H - Uruguay,2016-11-15,WCQ,W 3-1,Sub-Off 83 min,2.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0
+341,Arsenal,A - Man Utd,2016-11-19,Prem,D 1-1,Started,0.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0
+342,Arsenal,H - PSG,2016-11-23,UCL,D 2-2,Started,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
+343,Arsenal,H - Bournemouth,2016-11-27,Prem,W 3-1,Started,2.0,0.0,4.0,2.0,1.0,2.0,1.0,0.0
+344,Arsenal,A - West Ham,2016-12-03,Prem,W 1-5,Started,3.0,1.0,5.0,4.0,1.0,0.0,0.0,0.0
+345,Arsenal,A - FC Basel,2016-12-06,UCL,W 1-4,Sub-Off 69 min,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0
+346,Arsenal,H - Stoke,2016-12-10,Prem,W 3-1,Started,0.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+347,Arsenal,A - Everton,2016-12-13,Prem,L 2-1,Started,1.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0
+348,Arsenal,A - Man City,2016-12-18,Prem,L 2-1,Started,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0
+349,Arsenal,H - West Brom,2016-12-26,Prem,W 1-0,Started,0.0,0.0,9.0,4.0,1.0,1.0,0.0,0.0
+350,Arsenal,H - C Palace,2017-01-01,Prem,W 2-0,Started,0.0,1.0,8.0,2.0,1.0,3.0,0.0,0.0
+351,Arsenal,A - Bournemouth,2017-01-03,Prem,D 3-3,Started,1.0,0.0,3.0,1.0,1.0,2.0,0.0,0.0
+352,Arsenal,A - Swansea,2017-01-14,Prem,W 0-4,Sub-Off 78 min,1.0,0.0,4.0,2.0,1.0,1.0,0.0,0.0
+353,Arsenal,H - Burnley,2017-01-22,Prem,W 2-1,Started,1.0,0.0,8.0,3.0,0.0,1.0,0.0,0.0
+354,Arsenal,A - Southampton,2017-01-28,FAC,W 0-5,Sub-On 64 min,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0
+355,Arsenal,H - Watford,2017-01-31,Prem,L 1-2,Started,0.0,1.0,5.0,0.0,0.0,4.0,1.0,0.0
+356,Arsenal,A - Chelsea,2017-02-04,Prem,L 3-1,Started,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+357,Arsenal,H - Hull,2017-02-11,Prem,W 2-0,Started,2.0,0.0,6.0,4.0,3.0,3.0,1.0,0.0
+358,Arsenal,A - Bayern,2017-02-15,UCL,L 5-1,Started,1.0,0.0,2.0,2.0,3.0,2.0,1.0,0.0
+359,Arsenal,A - Sutton Unite,2017-02-20,FAC,W 0-2,Sub-On 73 min,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+360,Arsenal,A - Liverpool,2017-03-04,Prem,L 3-1,Sub-On 45 min,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+361,Arsenal,H - Bayern,2017-03-07,UCL,L 1-5,Sub-Off 72 min,0.0,0.0,1.0,1.0,1.0,3.0,0.0,0.0
+362,Arsenal,H - Lincoln City,2017-03-11,FAC,W 5-0,Started,1.0,0.0,4.0,1.0,0.0,1.0,0.0,0.0
+363,Arsenal,A - West Brom,2017-03-18,Prem,L 3-1,Sub-Off 77 min,1.0,0.0,2.0,1.0,1.0,2.0,0.0,0.0
+364,Chile,A - Argentina,2017-03-23,WCQ,L 1-0,Started,0.0,0.0,4.0,0.0,2.0,4.0,0.0,0.0
+365,Chile,H - Venezuela,2017-03-28,WCQ,W 3-1,Started,1.0,1.0,3.0,2.0,0.0,3.0,0.0,0.0
+366,Arsenal,H - Man City,2017-04-02,Prem,D 2-2,Started,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+367,Arsenal,H - West Ham,2017-04-05,Prem,W 3-0,Started,0.0,0.0,3.0,0.0,2.0,2.0,0.0,0.0
+368,Arsenal,A - C Palace,2017-04-10,Prem,L 3-0,Started,0.0,0.0,4.0,1.0,2.0,0.0,0.0,0.0
+369,Arsenal,A - Boro,2017-04-17,Prem,W 1-2,Sub-Off 89 min,1.0,0.0,2.0,2.0,3.0,3.0,0.0,0.0
+370,Arsenal,H - Man City,2017-04-23,FAC,W 2-1,Started,1.0,0.0,1.0,1.0,2.0,4.0,1.0,0.0
+371,Arsenal,H - Leicester,2017-04-26,Prem,W 1-0,Started,0.0,0.0,2.0,1.0,3.0,2.0,1.0,0.0
+372,Arsenal,A - Tottenham,2017-04-30,Prem,L 2-0,Started,0.0,0.0,4.0,1.0,0.0,2.0,0.0,0.0
+373,Arsenal,H - Man Utd,2017-05-07,Prem,W 2-0,Started,0.0,0.0,2.0,0.0,1.0,2.0,0.0,0.0
+374,Arsenal,A - Southampton,2017-05-10,Prem,W 0-2,Started,1.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+375,Arsenal,A - Stoke,2017-05-13,Prem,W 1-4,Started,1.0,1.0,2.0,1.0,0.0,6.0,0.0,0.0
+376,Arsenal,H - Sunderland,2017-05-16,Prem,W 2-0,Started,2.0,0.0,9.0,2.0,3.0,2.0,0.0,0.0
+377,Arsenal,H - Everton,2017-05-21,Prem,W 3-1,Sub-Off 67 min,1.0,0.0,4.0,2.0,1.0,3.0,0.0,0.0
+378,Arsenal,H - Chelsea,2017-05-27,FAC,W 2-1,Started,1.0,0.0,4.0,1.0,1.0,2.0,0.0,0.0
+379,Chile,A - Russia,2017-06-09,Int,D 1-1,Sub-On 54 min,0.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0
+380,Chile,A - Romania,2017-06-13,Int,L 3-2,Started,0.0,1.0,2.0,1.0,1.0,2.0,0.0,0.0
+381,Chile,A - Cameroon,2017-06-18,Conf,W 0-2,Sub-On 57 min,0.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0
+382,Chile,A - Germany,2017-06-22,Conf,D 1-1,Started,1.0,0.0,3.0,2.0,2.0,3.0,1.0,0.0
+383,Chile,H - Australia,2017-06-25,Conf,D 1-1,Started,0.0,0.0,3.0,2.0,2.0,1.0,0.0,0.0
+384,Chile,A - Portugal,2017-06-28,Conf,W (0) 0-(3) 0,Started,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0
+385,Chile,H - Germany,2017-07-02,Conf,L 0-1,Started,0.0,0.0,3.0,1.0,2.0,3.0,0.0,0.0
+386,Arsenal,A - Liverpool,2017-08-27,Prem,L 4-0,Sub-Off 61 min,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+387,Chile,H - Paraguay,2017-08-31,WCQ,L 0-3,Started,0.0,0.0,1.0,0.0,0.0,5.0,0.0,0.0
+388,Chile,A - Bolivia,2017-09-05,WCQ,L 1-0,Started,0.0,0.0,5.0,0.0,0.0,3.0,0.0,0.0
+389,Arsenal,H - Bournemouth,2017-09-09,Prem,W 3-0,Sub-On 74 min,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+390,Arsenal,H - Cologne,2017-09-14,Europa,W 3-1,Started,1.0,0.0,3.0,2.0,0.0,4.0,0.0,0.0
+391,Arsenal,A - Chelsea,2017-09-17,Prem,D 0-0,Sub-On 65 min,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+392,Arsenal,H - Doncaster,2017-09-20,CC,W 1-0,Started,0.0,1.0,4.0,1.0,1.0,2.0,0.0,0.0
+393,Arsenal,H - West Brom,2017-09-25,Prem,W 2-0,Sub-Off 82 min,0.0,0.0,4.0,2.0,1.0,5.0,1.0,0.0
+394,Arsenal,H - Brighton,2017-10-01,Prem,W 2-0,Started,0.0,1.0,8.0,3.0,1.0,3.0,0.0,0.0
+395,Chile,H - Ecuador,2017-10-05,WCQ,W 2-1,Started,1.0,0.0,1.0,1.0,1.0,4.0,0.0,0.0
+396,Chile,A - Brazil,2017-10-10,WCQ,L 3-0,Started,0.0,0.0,2.0,0.0,2.0,7.0,1.0,0.0
+397,Arsenal,A - Everton,2017-10-22,Prem,W 2-5,Started,1.0,1.0,7.0,3.0,2.0,4.0,0.0,0.0
+398,Arsenal,H - Swansea,2017-10-28,Prem,W 2-1,Started,0.0,0.0,3.0,1.0,0.0,3.0,0.0,0.0
+399,Arsenal,A - Man City,2017-11-05,Prem,L 3-1,Started,0.0,0.0,1.0,0.0,2.0,5.0,1.0,0.0
+400,Arsenal,H - Tottenham,2017-11-18,Prem,W 2-0,Started,1.0,0.0,6.0,4.0,3.0,6.0,1.0,0.0
+401,Arsenal,A - Burnley,2017-11-26,Prem,W 0-1,Started,1.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+402,Arsenal,H - Huddersfield,2017-11-29,Prem,W 5-0,Sub-Off 72 min,1.0,0.0,3.0,1.0,3.0,2.0,0.0,0.0
+403,Arsenal,H - Man Utd,2017-12-02,Prem,L 1-3,Started,0.0,0.0,5.0,2.0,1.0,3.0,1.0,0.0
+404,Arsenal,A - Southampton,2017-12-10,Prem,D 1-1,Started,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0
+405,Arsenal,A - West Ham,2017-12-13,Prem,D 0-0,Sub-Off 81 min,0.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0
+406,Arsenal,H - Newcastle,2017-12-16,Prem,W 1-0,Sub-Off 88 min,0.0,0.0,4.0,0.0,2.0,2.0,0.0,0.0
+407,Arsenal,H - Liverpool,2017-12-22,Prem,D 3-3,Started,1.0,0.0,2.0,1.0,2.0,1.0,0.0,0.0
+408,Arsenal,A - C Palace,2017-12-28,Prem,W 2-3,Started,2.0,0.0,4.0,3.0,0.0,1.0,0.0,0.0
+409,Arsenal,A - West Brom,2017-12-31,Prem,D 1-1,Started,0.0,0.0,6.0,0.0,0.0,2.0,0.0,0.0
